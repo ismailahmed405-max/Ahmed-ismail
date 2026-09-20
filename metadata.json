@@ -1,0 +1,6 @@
+{
+  "name": "KinCare • Elder Care Coordination",
+  "description": "Elder-care coordination for siblings sharing medication schedules, doctor visits, and notes about a parent with instant PWA mobile installation and WhatsApp family reports.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
